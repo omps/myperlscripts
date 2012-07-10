@@ -1,0 +1,28 @@
+use warnings;
+#@arrayname = qw/1,2,3,4,5,6,7,8,9/;
+#    $numlist = @arryname;
+#print $numlist;
+
+# Example 2
+
+
+# @t =(1, 2, 3); 
+# $t[5] = 6;     # Here we have inserted an element to the array.
+# print "@t\n"; # it will print 2 undefined element 1 2 3   6
+# # perl will give a warning in case of undefined elements.
+# if (!defined $t[3]) {
+#     print "Element 3 is undefined. \n";
+# }
+
+# alternatively we can use the undef function.
+# We still see the element in the printout, to delete this undef element we need to explicitly delete it.
+# if (!defined $t[4]) {
+#     undef ($t[4]); # here $t is the $array and 4 is the $index
+# }
+
+# undef can be used inside or outside the array, example of using it inside the array
+@holeinthemiddle = (1, 2, undef, undef, undef, 6);
+print "@holeinthemiddle\n";
+
+
+

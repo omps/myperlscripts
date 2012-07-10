@@ -1,0 +1,29 @@
+use warnings;
+$input = ''; # temporary input
+@nums = (); #array of nos. since the array will be built eventally from $input hence it is left blank for now.
+$count = 0; # Count of no., nothing is in array right now so is 0 now.
+$sum = 0; #sum of numbers;
+$avg = 0; #average
+$med = 0; #median
+
+while () {
+    print "Enter a number: \n";
+    chomp($input = <STDIN>);
+    if ( $input ne '') {
+	$nums[$count] = $input;
+	$count++;
+	$sum += $input;
+    }
+    else { last; }
+}
+
+@nums = sort {$a <=> $b} @nums;
+$avg = $sum / $count;
+$med = $nums[$count /2];
+
+print "\n Total count of nos.: $count \n";
+print "Total Sum of nos: $sum\n";
+print "Minimum No.: $nums[0]\n";
+print "Maximum No.: $nums[$#nums]\n";
+printf("Average (mean): %.2f\n", $avg);
+print "Median: $med\n";
