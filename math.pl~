@@ -1,0 +1,21 @@
+#!/usr/bin/perl
+
+
+# Formula for (a+b)^2
+
+    $a = 0;
+    $b = 0;
+    $result = 0;
+
+# Taking the value of a and b from the command line
+print "Enter the value for a: \n";
+      chmop($a = <STDIN>);
+print "Enter the value for b: \n";
+      chmop($b = <STDIN>);
+
+
+# applying the formula to get the result.
+
+$result = $a*$a+2*$a*$b+$b*$b;
+
+print "$result\n";
