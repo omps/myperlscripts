@@ -1,0 +1,10 @@
+#/usr/bin/perl
+
+use strict;
+use warnings;
+
+print "Enter the name of the rocks: ";
+chomp(my @rocks = <STDIN>);
+my @result = reverse(@rocks);
+
+print "I have ", @rocks" !\n";
