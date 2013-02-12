@@ -9,7 +9,7 @@ use HTML::SimpleLinkExtor;
 use URI;
 use POSIX;
 
-# Information7 on comics.
+# Information on comics.
 
 my $in_file = "comics.txt";
 

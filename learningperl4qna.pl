@@ -80,7 +80,7 @@ print "\@barney is @barney\n";
 ## Above average another approach.
 
 sub above_average {
-  $average = &average(@_);
+ my  $average = &average(@_);
   my @list;
   foreach my $element (@_) {
     if ($element > $average ) {
@@ -89,3 +89,24 @@ sub above_average {
   }
 @list;
 }
+
+## Question 4. subroutine to greet a person.
+  
+use 5.010;
+
+sub greet {
+  state @names;
+  my $name = shift;
+  print "Hi $name!";
+  if ( @names ) {
+    print "i have seen: @names!\n";
+  } else {
+    print "you are the first person here!\n";
+  }
+  push @names, $name;
+}
+
+&greet('Fred');
+&greet('Barney');
+&greet('Wilma');
+&greet('Betty');
