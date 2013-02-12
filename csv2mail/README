@@ -1,0 +1,4 @@
+# This directory is created for the purpose of sending mail from using the perl\
+# script from a csv file, which will contain email id in some 3/4 field. \ 
+# This script will also check what are the contents against this host and \
+# accordingly will chose the message which needs to be sent.

@@ -1,0 +1,5 @@
+hostname,env,os,os obsolete,hw obsolete,email id,
+host1,prod,Linux,yes,yes,test@test.com
+host2,dev,Linux,yes,no,test1@test.com
+host3,qa,Sun,no,yes,test2@test.com
+host4,prod,sun,no,no,test3@test.com
