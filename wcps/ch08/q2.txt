@@ -1,0 +1,41 @@
+=question
+<HEAD><TITLE>Question 3</TITLE></HEAD>
+<H1>Question 3:</H1>
+<P>
+What does the chicken lips (<code>&lt;=&gt;</code>) operator do?
+<P>
+&nbsp;
+<FORM ACTION="quiz.pl">
+<P>
+<INPUT TYPE="submit" NAME="answer" VALUE="1">
+Exchanges two values.<BR>
+<INPUT TYPE="submit" NAME="answer" VALUE="2">
+There is a trick question. There is no such operator. <BR>
+<INPUT TYPE="submit" NAME="answer" VALUE="3">
+Compares two numbers and returns -1, 0, or 1, depending on the result.<BR>
+</FORM>
+
+=answer 1
+
+<HEAD><TITLE>Wrong</TITLE></HEAD>
+<H1>Wrong</H1>
+<P>
+Check out <i>perldoc perlop</i> and try again.
+
+
+=answer 2
+
+<HEAD><TITLE>Wrong</TITLE></HEAD>
+<H1>Wrong</H1>
+<P>
+There really is such an operator.
+Check out <i>perldoc perlop</i> and try again.
+
+=right 3
+
+<HEAD><TITLE>Right</TITLE></HEAD>
+<H1>Right</H1>
+<P>
+For your information the string version of the operator is
+<b>cmp</b>.
+

@@ -1,0 +1,47 @@
+=question
+<HEAD><TITLE>Question 1</TITLE></HEAD>
+<H1>Question 1:</H1>
+<P>
+What does the following regular expression mean:
+<pre>
+/\S+/
+</pre>
+<P>
+&nbsp;
+<FORM ACTION="quiz.pl">
+<P>
+<INPUT TYPE="submit" NAME="answer" VALUE="1">
+One or more spaces.<BR>
+<INPUT TYPE="submit" NAME="answer" VALUE="2">
+Zero or more spaces.<BR>
+<INPUT TYPE="submit" NAME="answer" VALUE="3">
+One or more non-space characters.<BR>
+</FORM>
+
+=answer 1
+
+<HEAD><TITLE>Wrong</TITLE></HEAD>
+<H1>Wrong</H1>
+<P>
+Lower case 's' (<code>\s</code>) is used to specify 
+spaces.  The regular expression given uses an upper
+case 'S'.  (See <i>perldoc perlre</i> for a reference.)
+
+
+=answer 2
+
+<HEAD><TITLE>Wrong</TITLE></HEAD>
+<H1>Wrong</H1>
+<P>
+The star character (<code>*</code>) denotes zero
+or more characters.  This expression uses the 
+plus (<code>+</code>) character.
+(See <i>perldoc perlre</i> for a reference.)
+
+=right 3
+
+<HEAD><TITLE>Right</TITLE></HEAD>
+<H1>Right</H1>
+
+Go on to the next questions.
+

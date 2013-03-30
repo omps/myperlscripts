@@ -1,0 +1,42 @@
+=question
+<HEAD><TITLE>Question 3</TITLE></HEAD>
+<H1>Question 3:</H1>
+<P>
+Why do we always use the <code>-T</code> flag when creating
+CGI programs?
+<P>
+&nbsp;
+<FORM ACTION="quiz.pl">
+<P>
+<INPUT TYPE="submit" NAME="answer" VALUE="1">
+It tells Perl to check the output for HTML compatibility.<BR>
+<INPUT TYPE="submit" NAME="answer" VALUE="2">
+It prevents any user input from being used dangerously until it 
+has been checked.<BR>
+<INPUT TYPE="submit" NAME="answer" VALUE="3">
+It tells Perl to format error messages in a form the browser can understand.<BR>
+</FORM>
+
+=answer 1
+
+<HEAD><TITLE>Wrong</TITLE></HEAD>
+<H1>Wrong</H1>
+<P>
+Check out <i>perldoc perlrun</i> and try again.
+
+
+=right 2
+
+<HEAD><TITLE>Right</TITLE></HEAD>
+<H1>Right</H1>
+<P>
+Taint mode (-T) is not only useful for CGI programs but is also a 
+good security check for setuid programs as well.
+
+=answer 3
+
+<HEAD><TITLE>Wrong</TITLE></HEAD>
+<H1>Wrong</H1>
+
+Check out <i>perldoc perlrun</i> and try again.
+

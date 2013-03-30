@@ -1,0 +1,7 @@
+#
+# Sample Calendar Files
+#
+July 14	-100	Rebate Seagate $10
+July 14	-100	Rebate Seagate $40
+July 12 	-100	Rebate Costco $50
+Aug 1	+30	Wife's birthday

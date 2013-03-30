@@ -1,0 +1,17 @@
+=title My Snapshots
+=head1 Baby
+=text
+Ingesting a Cheerio nasally
+=photo
+p4240093.jpg
+p4240102.jpg
+pc200088.jpg
+pc200090.jpg
+=head1 Dog
+=photo
+p2230148.jpg
+p2250157.jpg
+p2250159.jpg
+p8040360.jpg
+p8040361.jpg
+p8040364.jpg

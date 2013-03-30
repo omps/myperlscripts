@@ -1,0 +1,24 @@
+Top hosts accessing the system
+Hits	Who
+1517	65.214.36.123
+1402	24.0.240.254
+1187	207.46.98.144
+1101	64.113.123.77
+800	194.160.222.10
+792	24.25.246.191
+785	81.153.40.153
+637	64.124.25.95
+631	209.218.171.51
+609	68.237.198.197
+Top URLs accessed
+Hits	What
+14439	/vim-cook.html
+9716	/favicon.ico
+8278	/style/index.html
+5395	/style/
+4183	/style/styleTOC.pdf
+4109	/robots.txt
+3963	/
+3563	/style/c01.pdf
+3029	/style/c02.pdf
+2937	/style/c03.pdf

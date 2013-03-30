@@ -1,0 +1,1073 @@
+[Sat May 01 04:02:02 2004] [notice] Digest: generating secret for digest authentication ...
+[Sat May 01 04:02:02 2004] [notice] Digest: done
+[Sat May 01 04:02:02 2004] [notice] Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/1.6.91mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.47 OpenSSL/0.9.7a PHP/4.3.1 configured -- resuming normal operations
+[Sat May 01 04:02:02 2004] [notice] SIGHUP received.  Attempting to restart
+[Sat May 01 04:02:02 2004] [notice] Digest: generating secret for digest authentication ...
+[Sat May 01 04:02:02 2004] [notice] Digest: done
+[Sat May 01 04:02:03 2004] [notice] Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/1.6.91mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.47 OpenSSL/0.9.7a PHP/4.3.1 configured -- resuming normal operations
+[Sat May 01 04:02:03 2004] [notice] SIGHUP received.  Attempting to restart
+[Sat May 01 04:02:03 2004] [notice] Digest: generating secret for digest authentication ...
+[Sat May 01 04:02:03 2004] [notice] Digest: done
+[Sat May 01 04:02:03 2004] [notice] Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/1.6.91mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.47 OpenSSL/0.9.7a PHP/4.3.1 configured -- resuming normal operations
+[Sat May 01 04:02:03 2004] [notice] SIGHUP received.  Attempting to restart
+[Sat May 01 04:02:04 2004] [notice] Digest: generating secret for digest authentication ...
+[Sat May 01 04:02:04 2004] [notice] Digest: done
+[Sat May 01 04:02:04 2004] [notice] Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/1.6.91mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.47 OpenSSL/0.9.7a PHP/4.3.1 configured -- resuming normal operations
+[Sat May 01 04:02:04 2004] [notice] SIGHUP received.  Attempting to restart
+[Sat May 01 04:02:05 2004] [notice] Digest: generating secret for digest authentication ...
+[Sat May 01 04:02:05 2004] [notice] Digest: done
+[Sat May 01 04:02:05 2004] [notice] Apache-AdvancedExtranetServer/2.0.47 (Mandrake Linux/1.6.91mdk) mod_perl/1.99_08 Perl/v5.8.0 mod_ssl/2.0.47 OpenSSL/0.9.7a PHP/4.3.1 configured -- resuming normal operations
+[Sat May 01 10:19:43 2004] [error] [client 200.59.195.134] File does not exist: /var/www/html/ship/ins/ins.sxi, referer: http://www.oualline.com/ship/ins/index.html
+[Sat May 01 10:45:54 2004] [error] [client 200.59.195.134] File does not exist: /var/www/html/ship/ins/ins.sxi, referer: http://www.oualline.com/ship/ins/index.html
+[Sat May 01 13:53:04 2004] [error] [client 194.72.12.53] File does not exist: /var/www/html/default.ida
+[Sat May 01 13:55:55 2004] [error] [client 64.68.82.143] File does not exist: /var/www/html/perl
+[Sat May 01 17:55:49 2004] [error] [client 66.90.81.41] File does not exist: /var/www/perl/index.html
+[Sat May 01 19:12:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-win
+[Sat May 01 19:12:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgiwin
+[Sat May 01 19:12:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/scripts
+[Sat May 01 19:12:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_private
+[Sat May 01 19:12:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_pvt
+[Sat May 01 19:12:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_log
+[Sat May 01 19:13:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_txt
+[Sat May 01 19:13:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_cnf
+[Sat May 01 19:13:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_bin
+[Sat May 01 19:13:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bin
+[Sat May 01 19:13:03 2004] [error] [client 69.46.195.55] attempt to invoke directory as script: /var/www/cgi-bin/
+[Sat May 01 19:13:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-local
+[Sat May 01 19:13:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgis
+[Sat May 01 19:13:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi
+[Sat May 01 19:13:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgibin
+[Sat May 01 19:13:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgilocal
+[Sat May 01 19:13:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/htbin
+[Sat May 01 19:13:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-win
+[Sat May 01 19:13:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgiwin
+[Sat May 01 19:13:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/scripts
+[Sat May 01 19:13:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_private
+[Sat May 01 19:13:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_pvt
+[Sat May 01 19:13:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_log
+[Sat May 01 19:13:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_txt
+[Sat May 01 19:13:32 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_cnf
+[Sat May 01 19:13:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_bin
+[Sat May 01 19:13:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bin
+[Sat May 01 19:13:35 2004] [error] [client 69.46.195.55] script not found or unable to stat: /var/www/cgi-bin/aaa
+[Sat May 01 19:13:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-local
+[Sat May 01 19:13:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgis
+[Sat May 01 19:13:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi
+[Sat May 01 19:13:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgibin
+[Sat May 01 19:13:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgilocal
+[Sat May 01 19:13:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/htbin
+[Sat May 01 19:13:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/4test
+[Sat May 01 19:13:45 2004] [error] [client 69.46.195.55] Invalid URI in request GET %2E%2E%2E%2E%2E%2E//%2E%2E%2E%2E%2E%2E%69d%61/aaaaaa/../c%6Fn HTTP/1.0
+[Sat May 01 19:13:47 2004] [error] [client 69.46.195.55] Invalid URI in request GET %2E%2E%2E%2E//W%69nd%6Fws/aaaaaa/../%41dm%69n%2Epwl HTTP/1.0
+[Sat May 01 19:13:48 2004] [error] [client 69.46.195.55] Invalid URI in request GET %2E%2E//%2E%2E HTTP/1.0
+[Sat May 01 19:13:49 2004] [error] [client 69.46.195.55] Invalid URI in request GET %2E%2E//%2E%2E/aaaaaa/../b%6F%6Ft%2E%69n%69 HTTP/1.0
+[Sat May 01 19:13:49 2004] [error] [client 69.46.195.55] Invalid URI in request GET %2Ehtml//%2E%2E%2E%2E%2E%2E HTTP/1.0
+[Sat May 01 19:13:50 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./%2E%2E/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../%2E%2E\%2E%2E\\%2E%2E\\\%2E%2E///%2E%2E/%2E%2E/%2E%2E/%2E%2E/%65tc/m%6Ftd HTTP/1.0
+[Sat May 01 19:13:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/*.idc
+[Sat May 01 19:13:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:13:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:13:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:13:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:13:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:13:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:13:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..¿Ø..
+[Sat May 01 19:14:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.........
+[Sat May 01 19:14:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/........
+[Sat May 01 19:14:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/........
+[Sat May 01 19:14:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/......
+[Sat May 01 19:14:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/......
+[Sat May 01 19:14:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/......
+[Sat May 01 19:14:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/......
+[Sat May 01 19:14:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/......winnt
+[Sat May 01 19:14:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/....
+[Sat May 01 19:14:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/....
+[Sat May 01 19:14:48 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./%2E%2E/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../%2E%2E\ HTTP/1.0
+[Sat May 01 19:14:49 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./%2E%2E/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../%2E%2E\%2E%2E\\%2E%2E\\\%2E%2E///%2E%2E/%2E%2E/%2E%2E/%2E%2E/%65tc/p%61sswd HTTP/1.0
+[Sat May 01 19:14:50 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./%2E%2E/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../%2E%2E\c%6Fnf%69g%2Esys HTTP/1.0
+[Sat May 01 19:14:51 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./%2E%2E/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../%2E%2E\%65tc\\h%6Fsts HTTP/1.0
+[Sat May 01 19:14:52 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./%2E%2E/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../b%6F%6Ft%2E%69n%69 HTTP/1.0
+[Sat May 01 19:14:54 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./c%6Fnf%69g%2Esys HTTP/1.0
+[Sat May 01 19:14:56 2004] [error] [client 69.46.195.55] Invalid URI in request GET //%2E%2E/aaaaaa/../%2E%2E/./w%69nd%6Fws/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa/../%75s%65r%2Ed%61t HTTP/1.0
+[Sat May 01 19:14:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:14:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..\..
+[Sat May 01 19:14:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..\..\..\..\..\autoexec.bat
+[Sat May 01 19:14:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/..\..\..\boot.ini
+[Sat May 01 19:15:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.access
+[Sat May 01 19:15:01 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.htaccess
+[Sat May 01 19:15:01 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.html
+[Sat May 01 19:15:02 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.html
+[Sat May 01 19:15:02 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.html
+[Sat May 01 19:15:03 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.html
+[Sat May 01 19:15:03 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.html
+[Sat May 01 19:15:04 2004] [error] [client 69.46.195.55] client denied by server configuration: /var/www/html/.htpasswd
+[Sat May 01 19:15:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.members
+[Sat May 01 19:15:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.pass
+[Sat May 01 19:15:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.passes
+[Sat May 01 19:15:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.passwd
+[Sat May 01 19:15:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.password
+[Sat May 01 19:15:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.passwords
+[Sat May 01 19:15:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.passwrd
+[Sat May 01 19:15:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.pwd
+[Sat May 01 19:15:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.users
+[Sat May 01 19:15:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/.wwwacl
+[Sat May 01 19:15:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WEB-INF
+[Sat May 01 19:15:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/etc
+[Sat May 01 19:15:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ASPSamp
+[Sat May 01 19:15:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ASPSamp
+[Sat May 01 19:15:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ASPSamp
+[Sat May 01 19:15:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Admin_files
+[Sat May 01 19:15:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Admin_files
+[Sat May 01 19:15:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/AdvWorks
+[Sat May 01 19:15:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/AdvWorks
+[Sat May 01 19:15:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/AdvWorks
+[Sat May 01 19:15:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Agent
+[Sat May 01 19:15:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Agentes
+[Sat May 01 19:15:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Agents
+[Sat May 01 19:15:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Album
+[Sat May 01 19:15:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Asp
+[Sat May 01 19:15:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/C:
+[Sat May 01 19:15:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/CFIDE
+[Sat May 01 19:15:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ConsoleHelp
+[Sat May 01 19:15:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/DMR
+[Sat May 01 19:15:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/DataBase
+[Sat May 01 19:15:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Default.asp
+[Sat May 01 19:15:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/EXE
+[Sat May 01 19:15:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Excel
+[Sat May 01 19:15:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/GetFile.cfm
+[Sat May 01 19:15:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/GetFile.cfm
+[Sat May 01 19:15:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/HyperStat
+[Sat May 01 19:15:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/IISSamples
+[Sat May 01 19:15:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/IISSamples
+[Sat May 01 19:15:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/IISSamples
+[Sat May 01 19:15:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/MSword
+[Sat May 01 19:15:32 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/M_A_C_H_T_T_P_V_E_R_S_I_O_N
+[Sat May 01 19:15:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/NetDynamic
+[Sat May 01 19:15:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/NetDynamics
+[Sat May 01 19:15:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Newuser
+[Sat May 01 19:15:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Orders
+[Sat May 01 19:15:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/PDG_Cart
+[Sat May 01 19:15:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/PDG_Cart
+[Sat May 01 19:15:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/PDG_Cart
+[Sat May 01 19:15:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/PDG_Cartshopper.conf
+[Sat May 01 19:15:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/PSUser
+[Sat May 01 19:16:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Pages
+[Sat May 01 19:16:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/SiteServer
+[Sat May 01 19:16:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Sites
+[Sat May 01 19:16:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Sites
+[Sat May 01 19:16:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Sites
+[Sat May 01 19:16:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Sites
+[Sat May 01 19:16:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Sites
+[Sat May 01 19:16:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Sites
+[Sat May 01 19:16:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Stats
+[Sat May 01 19:16:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/StoreDB
+[Sat May 01 19:16:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WCB
+[Sat May 01 19:16:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WS_FTP.LOG
+[Sat May 01 19:16:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WS_FTP.ini
+[Sat May 01 19:16:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebSTAR
+[Sat May 01 19:16:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebSTART
+[Sat May 01 19:16:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebShop
+[Sat May 01 19:16:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebShop
+[Sat May 01 19:16:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebShop
+[Sat May 01 19:16:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebShop
+[Sat May 01 19:16:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WebTrend
+[Sat May 01 19:16:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/Web_store
+[Sat May 01 19:16:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/WhatsNew
+[Sat May 01 19:17:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_AuthChangeUrl
+[Sat May 01 19:17:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_AuthChangeUrl
+[Sat May 01 19:17:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/__vti_inf.html
+[Sat May 01 19:17:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_adm
+[Sat May 01 19:17:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_cvt
+[Sat May 01 19:17:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_inf.htm
+[Sat May 01 19:17:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_inf.html
+[Sat May 01 19:17:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/_vti_pwd
+[Sat May 01 19:17:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/a.asp
+[Sat May 01 19:17:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/aaa
+[Sat May 01 19:17:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/acceso
+[Sat May 01 19:17:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/access
+[Sat May 01 19:17:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/access-log
+[Sat May 01 19:17:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/access.log
+[Sat May 01 19:17:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/access.txt
+[Sat May 01 19:17:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/acciones
+[Sat May 01 19:17:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/account
+[Sat May 01 19:17:32 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/accounting
+[Sat May 01 19:17:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adm
+[Sat May 01 19:17:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admcgi
+[Sat May 01 19:17:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admcgi
+[Sat May 01 19:17:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admin
+[Sat May 01 19:17:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admin-serv
+[Sat May 01 19:17:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admin-serv
+[Sat May 01 19:17:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admin.php3
+[Sat May 01 19:17:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admin.php3
+[Sat May 01 19:17:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adminfiles
+[Sat May 01 19:17:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/administrator
+[Sat May 01 19:17:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adminlogin
+[Sat May 01 19:17:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adminlogin
+[Sat May 01 19:17:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admisapi
+[Sat May 01 19:17:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/admisapi
+[Sat May 01 19:17:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adpassword.txt
+[Sat May 01 19:17:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adsamples
+[Sat May 01 19:17:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/adsamples
+[Sat May 01 19:17:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/advworks
+[Sat May 01 19:17:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/agentes
+[Sat May 01 19:17:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/allmanage.pl
+[Sat May 01 19:17:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/analog
+[Sat May 01 19:17:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/apache
+[Sat May 01 19:18:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/app
+[Sat May 01 19:18:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/applicattion
+[Sat May 01 19:18:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/applicattions
+[Sat May 01 19:18:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/apps
+[Sat May 01 19:18:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/archivar
+[Sat May 01 19:18:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/archive
+[Sat May 01 19:18:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/archivo
+[Sat May 01 19:18:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/asp
+[Sat May 01 19:18:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/asp
+[Sat May 01 19:18:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/atc
+[Sat May 01 19:18:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/awebvisit.stat
+[Sat May 01 19:18:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ayuda
+[Sat May 01 19:18:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/backup
+[Sat May 01 19:18:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bak
+[Sat May 01 19:18:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/banca
+[Sat May 01 19:18:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/banco
+[Sat May 01 19:18:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bank
+[Sat May 01 19:18:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bb-dnbd
+[Sat May 01 19:18:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbs
+[Sat May 01 19:18:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbs
+[Sat May 01 19:18:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbs
+[Sat May 01 19:18:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbs
+[Sat May 01 19:18:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbs
+[Sat May 01 19:18:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbs
+[Sat May 01 19:18:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bbv
+[Sat May 01 19:18:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bdata
+[Sat May 01 19:18:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/bdatos
+[Sat May 01 19:18:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/beta
+[Sat May 01 19:18:21 2004] [error] [client 69.46.195.55] Options ExecCGI is off in this directory: /var/www/html/bigconf.cgi
+[Sat May 01 19:18:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/billing
+[Sat May 01 19:18:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/boot
+[Sat May 01 19:18:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/buy
+[Sat May 01 19:18:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/buynow
+[Sat May 01 19:18:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/c
+[Sat May 01 19:18:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cache-stats
+[Sat May 01 19:18:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/caja
+[Sat May 01 19:18:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/carbo.dll
+[Sat May 01 19:18:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/card
+[Sat May 01 19:18:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cards
+[Sat May 01 19:18:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cart
+[Sat May 01 19:18:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cash
+[Sat May 01 19:18:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/catalog.nsf
+[Sat May 01 19:18:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ccard
+[Sat May 01 19:18:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cd
+[Sat May 01 19:18:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cdrom
+[Sat May 01 19:18:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cert
+[Sat May 01 19:18:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/certificado
+[Sat May 01 19:18:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/certificate
+[Sat May 01 19:18:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfappman
+[Sat May 01 19:18:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfappman
+[Sat May 01 19:18:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:18:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfdocs
+[Sat May 01 19:19:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfide
+[Sat May 01 19:19:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfide
+[Sat May 01 19:19:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfide
+[Sat May 01 19:19:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cfusion
+[Sat May 01 19:19:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-auth
+[Sat May 01 19:19:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-dos
+[Sat May 01 19:19:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-dos
+[Sat May 01 19:19:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-dos
+[Sat May 01 19:19:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-shl
+[Sat May 01 19:19:32 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-shl
+[Sat May 01 19:19:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-weddico
+[Sat May 01 19:19:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgi-winuploader.exe
+[Sat May 01 19:19:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cgishl
+[Sat May 01 19:19:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/class
+[Sat May 01 19:19:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cliente
+[Sat May 01 19:19:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/clientes
+[Sat May 01 19:19:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cm
+[Sat May 01 19:19:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cmd.exe
+[Sat May 01 19:19:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cmd.exe
+[Sat May 01 19:19:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cmd1.exe
+[Sat May 01 19:19:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cmd1.exe
+[Sat May 01 19:19:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/code.php3
+[Sat May 01 19:19:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/code.php3
+[Sat May 01 19:19:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/code.php3
+[Sat May 01 19:19:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/common
+[Sat May 01 19:19:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/communicator
+[Sat May 01 19:19:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/compra
+[Sat May 01 19:19:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/compras
+[Sat May 01 19:19:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/compressed
+[Sat May 01 19:19:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/conecta
+[Sat May 01 19:19:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/config
+[Sat May 01 19:19:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/connect
+[Sat May 01 19:19:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cool-logs
+[Sat May 01 19:19:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/copy
+[Sat May 01 19:19:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/correo
+[Sat May 01 19:19:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/counter
+[Sat May 01 19:19:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cp
+[Sat May 01 19:19:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/credit
+[Sat May 01 19:19:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/crypto
+[Sat May 01 19:20:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cuenta
+[Sat May 01 19:20:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/cuentas
+[Sat May 01 19:20:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/customers
+[Sat May 01 19:20:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dan_o.dat
+[Sat May 01 19:20:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dat
+[Sat May 01 19:20:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/data
+[Sat May 01 19:20:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/database
+[Sat May 01 19:20:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/database.nsf
+[Sat May 01 19:20:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/database.nsf
+[Sat May 01 19:20:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/database.nsf
+[Sat May 01 19:20:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/database.nsf
+[Sat May 01 19:20:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/database.nsf
+[Sat May 01 19:20:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/databases
+[Sat May 01 19:20:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dato
+[Sat May 01 19:20:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/datos
+[Sat May 01 19:20:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/db
+[Sat May 01 19:20:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dbase
+[Sat May 01 19:20:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dbmlparser.exe
+[Sat May 01 19:20:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dcforum
+[Sat May 01 19:20:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/default.asp
+[Sat May 01 19:20:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/default.aspÅ
+[Sat May 01 19:20:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/default.asp.
+[Sat May 01 19:20:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/default.asp::$DATA
+[Sat May 01 19:20:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/demo
+[Sat May 01 19:20:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/demos
+[Sat May 01 19:20:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/dir
+[Sat May 01 19:20:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/directory
+[Sat May 01 19:20:22 2004] [error] [client 69.46.195.55] client denied by server configuration: /usr/share/doc
+[Sat May 01 19:20:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/doc-html
+[Sat May 01 19:20:24 2004] [error] [client 69.46.195.55] client denied by server configuration: /usr/share/doc/packages
+[Sat May 01 19:20:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/docamples
+[Sat May 01 19:20:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/docs
+[Sat May 01 19:20:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/domcfg.nsf
+[Sat May 01 19:20:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/domcfg.nsf
+[Sat May 01 19:20:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/domcfg.nsf
+[Sat May 01 19:20:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/domlog.nsf
+[Sat May 01 19:20:32 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/down
+[Sat May 01 19:20:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/download
+[Sat May 01 19:20:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/downloads
+[Sat May 01 19:20:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/easylog
+[Sat May 01 19:20:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/eatme.ida
+[Sat May 01 19:20:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/eatme.idc
+[Sat May 01 19:20:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/eatme.idq
+[Sat May 01 19:20:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/eatme.idw
+[Sat May 01 19:20:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/eatme.pl
+[Sat May 01 19:20:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ejemplo
+[Sat May 01 19:20:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ejemplos
+[Sat May 01 19:20:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/employees
+[Sat May 01 19:20:40 2004] [error] [client 69.46.195.55] Options ExecCGI is off in this directory: /var/www/html/enter_bug.cgi
+[Sat May 01 19:20:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/envia
+[Sat May 01 19:20:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/enviamail
+[Sat May 01 19:20:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epoch
+[Sat May 01 19:20:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epochpassword
+[Sat May 01 19:20:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/epochpwd
+[Sat May 01 19:20:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/es
+[Sat May 01 19:20:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/etc
+[Sat May 01 19:20:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/etc
+[Sat May 01 19:20:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/etc
+[Sat May 01 19:20:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/examples
+[Sat May 01 19:20:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/excel
+[Sat May 01 19:20:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/exe
+[Sat May 01 19:20:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/exec
+[Sat May 01 19:21:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/fbsd
+[Sat May 01 19:21:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/feedback.htm
+[Sat May 01 19:21:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/file
+[Sat May 01 19:21:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/file
+[Sat May 01 19:21:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/files
+[Sat May 01 19:21:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/files.pl
+[Sat May 01 19:21:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/filetest.ida
+[Sat May 01 19:21:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/filetest.idq
+[Sat May 01 19:21:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/forum
+[Sat May 01 19:21:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/forums
+[Sat May 01 19:21:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/foto
+[Sat May 01 19:21:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/fotos
+[Sat May 01 19:21:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/fpadmin
+[Sat May 01 19:21:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ftp
+[Sat May 01 19:21:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ftp.log
+[Sat May 01 19:21:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/getdrvrs.exe
+[Sat May 01 19:21:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/global.asa
+[Sat May 01 19:21:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/guest
+[Sat May 01 19:21:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/guestbook
+[Sat May 01 19:21:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/guests
+[Sat May 01 19:21:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/help
+[Sat May 01 19:21:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/hit_tracker
+[Sat May 01 19:21:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/hitmatic
+[Sat May 01 19:21:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/hitmatic
+[Sat May 01 19:21:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/hits.txt
+[Sat May 01 19:21:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/home
+[Sat May 01 19:21:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/homepage
+[Sat May 01 19:21:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/htdocs
+[Sat May 01 19:21:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/html
+[Sat May 01 19:21:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/html
+[Sat May 01 19:21:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/htpasswd.txt
+[Sat May 01 19:21:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/hyperstat
+[Sat May 01 19:21:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ibill
+[Sat May 01 19:21:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/idea
+[Sat May 01 19:21:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ideas
+[Sat May 01 19:21:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmin
+[Sat May 01 19:21:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:39 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisadmpwd
+[Sat May 01 19:21:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iisamples
+[Sat May 01 19:21:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iishelp
+[Sat May 01 19:21:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iishelp
+[Sat May 01 19:21:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iishelp
+[Sat May 01 19:21:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/iissamples
+[Sat May 01 19:22:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/imagenes
+[Sat May 01 19:22:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/images
+[Sat May 01 19:22:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/import
+[Sat May 01 19:22:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/impreso
+[Sat May 01 19:22:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/include
+[Sat May 01 19:22:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/includes
+[Sat May 01 19:22:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/incoming
+[Sat May 01 19:22:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/index.JSP
+[Sat May 01 19:22:38 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/index.asp::$DATA
+[Sat May 01 19:22:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/info
+[Sat May 01 19:22:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/informacion
+[Sat May 01 19:22:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/information
+[Sat May 01 19:22:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ingresa
+[Sat May 01 19:22:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ingreso
+[Sat May 01 19:22:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/install
+[Sat May 01 19:22:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/intranet
+[Sat May 01 19:22:47 2004] [error] [client 69.46.195.55] Options ExecCGI is off in this directory: /var/www/html/invalidfilename.cgi
+[Sat May 01 19:22:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/invalidfilename.htm
+[Sat May 01 19:22:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/invalidfilename.ida
+[Sat May 01 19:22:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/invalidfilename.idc
+[Sat May 01 19:22:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/invalidfilename.idq
+[Sat May 01 19:22:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/invitado
+[Sat May 01 19:22:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/invitados
+[Sat May 01 19:22:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/java
+[Sat May 01 19:22:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/jave
+[Sat May 01 19:22:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/jdbc
+[Sat May 01 19:22:57 2004] [error] [client 69.46.195.55] Directory index forbidden by rule: /var/www/html/job/
+[Sat May 01 19:22:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/jrun
+[Sat May 01 19:22:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/lib
+[Sat May 01 19:22:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/library
+[Sat May 01 19:22:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/libro
+[Sat May 01 19:23:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/linux
+[Sat May 01 19:23:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/local
+[Sat May 01 19:23:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/log
+[Sat May 01 19:23:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/log.htm
+[Sat May 01 19:23:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/log.html
+[Sat May 01 19:23:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/log.nsf
+[Sat May 01 19:23:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/log.txt
+[Sat May 01 19:23:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logfile
+[Sat May 01 19:23:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logfile.htm
+[Sat May 01 19:23:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logfile.html
+[Sat May 01 19:23:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logfile.txt
+[Sat May 01 19:23:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logfiles
+[Sat May 01 19:23:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logger
+[Sat May 01 19:23:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logger.html
+[Sat May 01 19:23:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logging
+[Sat May 01 19:23:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/login
+[Sat May 01 19:23:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/login.jsp
+[Sat May 01 19:23:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logs
+[Sat May 01 19:23:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/logs
+[Sat May 01 19:23:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/lost
+[Sat May 01 19:23:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/lpt
+[Sat May 01 19:23:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mail
+[Sat May 01 19:23:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/main
+[Sat May 01 19:23:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/main.asp
+[Sat May 01 19:23:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/main.aspÅ
+[Sat May 01 19:23:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/main.aspÅ
+[Sat May 01 19:23:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mall_log_files
+[Sat May 01 19:23:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mall_log_files
+[Sat May 01 19:23:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/manage
+[Sat May 01 19:23:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/manage
+[Sat May 01 19:23:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/manage
+[Sat May 01 19:23:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/manual
+[Sat May 01 19:23:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/marketing
+[Sat May 01 19:23:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mc-icons
+[Sat May 01 19:23:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/memberfiles
+[Sat May 01 19:23:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/message
+[Sat May 01 19:23:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/messaging
+[Sat May 01 19:23:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ministats
+[Sat May 01 19:23:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/misc
+[Sat May 01 19:23:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mlog.html
+[Sat May 01 19:23:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mlog.html
+[Sat May 01 19:23:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mountain.cfg
+[Sat May 01 19:23:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/movimientos
+[Sat May 01 19:23:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mqseries
+[Sat May 01 19:23:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:40 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msadc
+[Sat May 01 19:23:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msads
+[Sat May 01 19:23:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msads
+[Sat May 01 19:23:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msads
+[Sat May 01 19:23:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msql
+[Sat May 01 19:23:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/msword
+[Sat May 01 19:23:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/mylog.html
+[Sat May 01 19:23:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/names.nsf
+[Sat May 01 19:24:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ncl_items.html
+[Sat May 01 19:24:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ncl_items.html
+[Sat May 01 19:24:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/neowebscript
+[Sat May 01 19:24:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/neowebscript
+[Sat May 01 19:24:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/neowebscript
+[Sat May 01 19:24:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/neowebscript
+[Sat May 01 19:24:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/netscape
+[Sat May 01 19:24:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/new
+[Sat May 01 19:24:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/news
+[Sat May 01 19:24:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/nl
+[Sat May 01 19:24:06 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/nonexistant.pl
+[Sat May 01 19:24:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/notexist.htw
+[Sat May 01 19:24:07 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/notexist.ida
+[Sat May 01 19:24:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/notexist.idc
+[Sat May 01 19:24:08 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/notexist.idq
+[Sat May 01 19:24:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/noticias
+[Sat May 01 19:24:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/null.htw
+[Sat May 01 19:24:10 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/null.htw
+[Sat May 01 19:24:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/null.htw
+[Sat May 01 19:24:11 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/odbc
+[Sat May 01 19:24:12 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/officescan
+[Sat May 01 19:24:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/old
+[Sat May 01 19:24:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/oordir
+[Sat May 01 19:24:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/oordir
+[Sat May 01 19:24:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/oracle
+[Sat May 01 19:24:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/oradata
+[Sat May 01 19:24:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/order
+[Sat May 01 19:24:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/order.log
+[Sat May 01 19:24:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/order
+[Sat May 01 19:24:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders.log
+[Sat May 01 19:24:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/orders
+[Sat May 01 19:24:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ordersorders.txt
+[Sat May 01 19:24:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/outgoing
+[Sat May 01 19:24:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/owa_util.signature
+[Sat May 01 19:24:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/ows-bin
+[Sat May 01 19:24:24 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/page.cfm
+[Sat May 01 19:24:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pages
+[Sat May 01 19:24:25 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pass.txt
+[Sat May 01 19:24:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passes
+[Sat May 01 19:24:26 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passfile
+[Sat May 01 19:24:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passwd
+[Sat May 01 19:24:27 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passwd.txt
+[Sat May 01 19:24:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/password
+[Sat May 01 19:24:28 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/password.txt
+[Sat May 01 19:24:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passwords
+[Sat May 01 19:24:29 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passwords.txt
+[Sat May 01 19:24:30 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/passwrd.txt
+[Sat May 01 19:24:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pccsmysqladm
+[Sat May 01 19:24:31 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/perl
+[Sat May 01 19:24:32 2004] [error] 5093: ModPerl::Registry: /var/www/perl/files.pl not found or unable to stat
+[Sat May 01 19:24:32 2004] [error] [client 69.46.195.55] File does not exist: /var/www/perl/perl5
+[Sat May 01 19:24:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/perl5files.pl
+[Sat May 01 19:24:33 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/phpPhotoAlbum
+[Sat May 01 19:24:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/piranha
+[Sat May 01 19:24:34 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pollit
+[Sat May 01 19:24:35 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/prd.i
+[Sat May 01 19:24:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/privado
+[Sat May 01 19:24:36 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/private
+[Sat May 01 19:24:37 2004] [error] [client 69.46.195.55] Options ExecCGI is off in this directory: /var/www/html/process_bug.cgi
+[Sat May 01 19:24:37 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/prod
+[Sat May 01 19:24:41 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/product.asp
+[Sat May 01 19:24:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/prueba
+[Sat May 01 19:24:42 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pruebas
+[Sat May 01 19:24:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/prxdocs
+[Sat May 01 19:24:43 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/prxdocs
+[Sat May 01 19:24:44 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pservlet.html
+[Sat May 01 19:24:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pub
+[Sat May 01 19:24:45 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/public
+[Sat May 01 19:24:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/publica
+[Sat May 01 19:24:46 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/publicar
+[Sat May 01 19:24:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/publico
+[Sat May 01 19:24:47 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/publisher
+[Sat May 01 19:24:48 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/purchase
+[Sat May 01 19:24:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/purchases
+[Sat May 01 19:24:49 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pw
+[Sat May 01 19:24:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pw
+[Sat May 01 19:24:50 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/pwd
+[Sat May 01 19:24:51 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/quikstore.cfg
+[Sat May 01 19:24:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/random_banner
+[Sat May 01 19:24:52 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/register
+[Sat May 01 19:24:53 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/registered
+[Sat May 01 19:24:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/reseller
+[Sat May 01 19:24:54 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/retail
+[Sat May 01 19:24:55 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/reviews
+[Sat May 01 19:24:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/rguest.exe
+[Sat May 01 19:24:56 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/rightfax
+[Sat May 01 19:24:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/roads
+[Sat May 01 19:24:58 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/root
+[Sat May 01 19:24:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/s97_cgi.exe
+[Sat May 01 19:24:59 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/s_97.vts
+[Sat May 01 19:25:00 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/sales
+[Sat May 01 19:25:01 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/sam
+[Sat May 01 19:25:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/sam._
+[Sat May 01 19:25:02 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/sam.bin
+[Sat May 01 19:25:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/sample
+[Sat May 01 19:25:03 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:04 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:05 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:09 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:13 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:14 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:15 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:16 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:17 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:18 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:19 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:20 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:21 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:22 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:25:23 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/samples
+[Sat May 01 19:26:57 2004] [error] [client 69.46.195.55] File does not exist: /var/www/html/index.html 
+[Sat May 01 21:33:11 2004] [error] [client 218.232.120.81] File does not exist: /var/www/html/robotsxx.txt
+[Sun May 02 01:09:20 2004] [error] [client 64.68.82.47] File does not exist: /var/www/html/perl
+[Sun May 02 12:15:56 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/formmail.pl
+[Sun May 02 12:16:00 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/formmail.cgi
+[Sun May 02 12:16:01 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/FormMail.cgi
+[Sun May 02 12:16:03 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/FormMail.pl
+[Mon May 03 06:55:32 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_inf.html
+[Mon May 03 06:55:32 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_bin
+[Mon May 03 06:55:32 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_inf.html
+[Mon May 03 06:55:33 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_bin
+[Mon May 03 06:55:34 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_inf.html
+[Mon May 03 06:55:34 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_bin
+[Mon May 03 06:55:35 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_inf.html
+[Mon May 03 06:55:35 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_bin
+[Mon May 03 06:55:43 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_inf.html
+[Mon May 03 06:55:43 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_bin
+[Mon May 03 06:55:43 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_inf.html
+[Mon May 03 06:55:43 2004] [error] [client 146.192.160.201] File does not exist: /var/www/html/_vti_bin
+[Mon May 03 14:16:15 2004] [error] [client 80.48.188.4] File does not exist: /var/www/html/default.htm
+[Tue May 04 07:00:13 2004] [error] [client 65.214.36.38] File does not exist: /var/www/html/perl
+[Tue May 04 10:08:49 2004] [error] [client 64.157.224.107] File does not exist: /var/www/html/perl, referer: http://london.pm.org/reviews/perl-for-c-programmers.html
+[Tue May 04 10:26:13 2004] [error] [client 148.241.97.133] File does not exist: /var/www/html/perl, referer: http://london.pm.org/reviews/perl-for-c-programmers.html
+[Tue May 04 14:34:35 2004] [error] [client 64.157.224.124] File does not exist: /var/www/html/perl, referer: http://london.pm.org/reviews/perl-for-c-programmers.html
+[Tue May 04 18:56:28 2004] [error] [client 64.68.82.199] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Tue May 04 22:16:22 2004] [error] [client 218.106.193.82] File does not exist: /var/www/html/style/¬†
+[Tue May 04 23:00:45 2004] [error] [client 65.214.36.38] File does not exist: /var/www/html/perl
+[Wed May 05 13:19:48 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/styletoc.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:49 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c01.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:53 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c02.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:54 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c03.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:54 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c04.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:55 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c05.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:55 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c06.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:56 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c07.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:57 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/c08.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:19:57 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/stylerule.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:10 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/re, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:10 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/re, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:13 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:14 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:17 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/inspection, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:18 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/inspection, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:19 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/inspection, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:19 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/inspection, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:20 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/inspection, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:20 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/check.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:21 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/excuse.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:24 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/ms_notation.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:25 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/numbers.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:25 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/review.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:26 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/vote.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:27 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/warning.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:27 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/cpm.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:30 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/cpm.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:31 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/ucta.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:36 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/bully.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 13:20:40 2004] [error] [client 211.152.14.98] File does not exist: /var/www/html/vimrc.html, referer: http://www.orlandodentists.com/index.html
+[Wed May 05 18:51:55 2004] [error] [client 218.1.164.46] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Wed May 05 20:03:05 2004] [error] [client 202.107.202.14] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Wed May 05 21:50:48 2004] [error] [client 80.133.101.211] File does not exist: /var/www/html/links
+[Thu May 06 10:37:25 2004] [error] [client 207.192.252.238] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Thu May 06 10:37:55 2004] [error] [client 64.79.3.92] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Thu May 06 17:49:26 2004] [error] [client 207.192.241.9] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Thu May 06 19:52:03 2004] [error] [client 67.127.197.89] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Thu May 06 21:58:00 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/formmail.cgi
+[Thu May 06 21:58:00 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/formmail.pl
+[Thu May 06 21:58:05 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/FormMail.cgi
+[Thu May 06 21:58:06 2004] [error] [client 66.193.160.126] script not found or unable to stat: /var/www/cgi-bin/FormMail.pl
+[Thu May 06 22:22:03 2004] [error] [client 208.57.32.21] Invalid method in request get /scripts/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/winnt/system32/cmd.exe?/c%20dir
+[Fri May 07 01:26:06 2004] [error] [client 61.149.253.144] Directory index forbidden by rule: /var/www/html/ship/ins/inspection/
+[Fri May 07 03:51:23 2004] [error] [client 64.68.82.13] File does not exist: /var/www/html/perl
+[Fri May 07 09:49:56 2004] [error] [client 24.145.251.45] File does not exist: /var/www/html/_vti_bin
+[Fri May 07 09:49:56 2004] [error] [client 24.145.251.45] File does not exist: /var/www/html/MSOffice
+[Fri May 07 17:28:07 2004] [error] [client 131.252.201.254] File does not exist: /var/www/html/default.htm
+[Sat May 08 10:59:50 2004] [error] [client 203.97.2.243] File does not exist: /var/www/html/default.htm
+[Sat May 08 15:21:12 2004] [error] [client 63.148.99.237] File does not exist: /var/www/html/ship/ins/ins.sxi, referer: http://www.oualline.com/ship/ins/index.html
+[Sat May 08 16:40:14 2004] [error] [client 217.185.236.147] File does not exist: /var/www/html/perl
+[Sun May 09 00:38:37 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C01.pdf
+[Sun May 09 00:38:38 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C02.pdf
+[Sun May 09 00:38:39 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C03.pdf
+[Sun May 09 00:38:39 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C04.pdf
+[Sun May 09 00:38:42 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C06.pdf
+[Sun May 09 00:38:44 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C07.pdf
+[Sun May 09 00:38:44 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C05.pdf
+[Sun May 09 00:38:47 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C08.pdf
+[Sun May 09 00:38:49 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C01.pdf
+[Sun May 09 00:38:49 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C02.pdf
+[Sun May 09 00:38:50 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C03.pdf
+[Sun May 09 00:38:51 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C04.pdf
+[Sun May 09 00:38:51 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C05.pdf
+[Sun May 09 00:38:52 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C06.pdf
+[Sun May 09 00:38:52 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C07.pdf
+[Sun May 09 00:38:53 2004] [error] [client 81.10.32.184] File does not exist: /var/www/html/style/C08.pdf
+[Sun May 09 04:16:28 2004] [error] [client 64.68.82.143] File does not exist: /var/www/html/perl
+[Sun May 09 17:08:34 2004] [error] [client 24.119.2.140] File does not exist: /var/www/html/col/cpm.htm
+[Sun May 09 17:12:21 2004] [error] [client 209.237.238.172] File does not exist: /var/www/html/perl
+[Mon May 10 01:17:35 2004] [error] [client 81.106.136.195] File does not exist: /var/www/html/perl
+[Mon May 10 15:42:19 2004] [error] [client 212.113.164.105] File does not exist: /var/www/html/_vti_bin
+[Mon May 10 15:42:19 2004] [error] [client 212.113.164.105] File does not exist: /var/www/html/MSOffice
+[Mon May 10 19:25:53 2004] [error] [client 64.68.82.142] File does not exist: /var/www/html/perl
+[Mon May 10 20:40:11 2004] [error] [client 202.183.6.200] File does not exist: /var/www/html/default.htm, referer: http://www.gnu.org/people/people.html
+[Mon May 10 23:55:11 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/<b>vim<
+[Mon May 10 23:55:12 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/col/<b>cpm<
+[Mon May 10 23:55:14 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/sw/re/re_<b>graph<
+[Tue May 11 00:42:24 2004] [error] [client 195.173.71.3] File does not exist: /var/www/html/_vti_bin
+[Tue May 11 00:42:24 2004] [error] [client 195.173.71.3] File does not exist: /var/www/html/MSOffice
+[Tue May 11 07:39:43 2004] [error] [client 144.47.25.65] File does not exist: /var/www/html/_vti_bin
+[Tue May 11 07:39:43 2004] [error] [client 144.47.25.65] File does not exist: /var/www/html/MSOffice
+[Tue May 11 09:56:34 2004] [error] [client 216.120.251.2] File does not exist: /var/www/html/styleTOC.html, referer: http://www.oualline.com/
+[Tue May 11 14:40:37 2004] [error] [client 64.200.2.253] Directory index forbidden by rule: /var/www/html/vim/
+[Tue May 11 14:40:51 2004] [error] [client 64.200.2.253] File does not exist: /var/www/html/vim.book
+[Tue May 11 15:43:56 2004] [error] [client 80.25.189.157] File does not exist: /var/www/html/default.htm
+[Tue May 11 15:45:09 2004] [error] [client 80.25.189.157] File does not exist: /var/www/html/default.htm
+[Wed May 12 22:11:59 2004] [error] [client 24.0.240.254] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Wed May 12 22:55:06 2004] [error] [client 218.232.120.83] File does not exist: /var/www/html/robotsxx.txt
+[Wed May 12 23:59:33 2004] [error] [client 202.102.144.39] File does not exist: /var/www/html/default.htm
+[Thu May 13 08:15:18 2004] [error] [client 82.48.233.252] Directory index forbidden by rule: /var/www/html/sw/re/
+[Thu May 13 09:40:40 2004] [error] [client 212.195.89.96] File does not exist: /var/www/html/_vti_bin
+[Thu May 13 09:40:40 2004] [error] [client 212.195.89.96] File does not exist: /var/www/html/MSOffice
+[Thu May 13 12:30:12 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/formmail.pl, referer: http://www.oualline.com/
+[Thu May 13 12:30:17 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/formmail.cgi, referer: http://www.oualline.com/
+[Thu May 13 12:30:22 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/FormMail.pl, referer: http://www.oualline.com/
+[Thu May 13 12:30:31 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/FormMail.cgi, referer: http://www.oualline.com/
+[Thu May 13 12:30:36 2004] [error] [client 208.34.72.10] File does not exist: /var/www/html/cgi-sys, referer: http://www.oualline.com/
+[Thu May 13 12:30:42 2004] [error] [client 208.34.72.10] File does not exist: /var/www/html/cgi-sys, referer: http://www.oualline.com/
+[Thu May 13 12:30:43 2004] [error] [client 208.34.72.10] File does not exist: /var/www/html/cgi-sys, referer: http://www.oualline.com/
+[Thu May 13 12:30:45 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/Formmail.pl, referer: http://www.oualline.com/
+[Thu May 13 12:30:48 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/mail.pl, referer: http://www.oualline.com/
+[Thu May 13 12:30:57 2004] [error] [client 208.34.72.10] script not found or unable to stat: /var/www/cgi-bin/FORMMAIL.PL, referer: http://www.oualline.com/
+[Fri May 14 03:24:15 2004] [error] [client 65.207.49.69] script not found or unable to stat: /var/www/cgi-bin/FormMail.pl
+[Fri May 14 03:24:15 2004] [error] [client 65.207.49.69] script not found or unable to stat: /var/www/cgi-bin/formmail.pl
+[Fri May 14 03:24:15 2004] [error] [client 65.207.49.69] script not found or unable to stat: /var/www/cgi-bin/Form.pl
+[Fri May 14 03:24:16 2004] [error] [client 65.207.49.69] script not found or unable to stat: /var/www/cgi-bin/Mail.pl
+[Fri May 14 03:24:16 2004] [error] [client 65.207.49.69] script not found or unable to stat: /var/www/cgi-bin/mail.pl
+[Fri May 14 03:58:43 2004] [error] [client 136.187.42.251] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Fri May 14 04:10:35 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/styletoc.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:37 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c01.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:38 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c02.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:39 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c03.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:41 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c05.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:42 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c06.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:44 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c07.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:45 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/c08.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:47 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/stylerule.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:51 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/re, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:10:53 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/re, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:02 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/re, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:03 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/re, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:08 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:16 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:20 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/inspection, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:22 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/inspection, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:23 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/inspection, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:27 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/inspection, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:28 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/inspection, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:30 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/check.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:33 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/check.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:35 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/excuse.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:36 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/ms_notation.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:37 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/numbers.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:42 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/review.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:46 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/review.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:47 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/vote.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:48 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/warning.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:50 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/cpm.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:51 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/ucta.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:53 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/bully.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:55 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/aisatsu.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:11:56 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/rinen.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:01 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/policy.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:05 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/zaimu.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:07 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/highlight.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:08 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/tanshin.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:16 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/setsumeikai.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:20 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/kabunushi.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:25 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/sokai.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:26 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/yuho.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:28 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/jiho.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:30 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/jokyo.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:35 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/memo.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:35 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/memo.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:37 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/cal.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:40 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/cal.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 04:12:45 2004] [error] [client 211.157.8.46] File does not exist: /var/www/html/vimrc.html, referer: http://texastrader.vstorediamonds.com
+[Fri May 14 15:27:50 2004] [error] [client 64.68.82.142] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Sat May 15 02:45:33 2004] [error] [client 65.214.36.38] File does not exist: /var/www/html/perl
+[Sun May 16 00:18:59 2004] [error] [client 220.244.224.40] File does not exist: /var/www/perl/index.html
+[Sun May 16 05:47:34 2004] [error] [client 81.130.187.45] File does not exist: /var/www/html/default.htm
+[Sun May 16 05:47:37 2004] [error] [client 81.130.187.45] File does not exist: /var/www/html/default.htm
+[Sun May 16 19:59:56 2004] [error] [client 66.74.210.92] File does not exist: /var/www/html/perl
+[Sun May 16 20:00:31 2004] [error] [client 66.74.210.92] File does not exist: /var/www/html/perl.
+[Mon May 17 03:51:19 2004] [error] [client 141.6.2.28] File does not exist: /var/www/html/varna
+[Tue May 18 03:31:49 2004] [error] [client 195.92.95.61] File does not exist: /var/www/html/cobalt-images
+[Tue May 18 07:01:23 2004] [error] [client 64.157.224.104] File does not exist: /var/www/html/perl, referer: http://london.pm.org/reviews/perl-for-c-programmers.html
+[Tue May 18 10:29:49 2004] [error] [client 131.107.3.84] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Tue May 18 11:22:35 2004] [error] [client 61.1.103.38] File does not exist: /var/www/html/style/c09.pdf
+[Tue May 18 11:22:49 2004] [error] [client 61.1.103.38] File does not exist: /var/www/html/style/c09.pdf
+[Wed May 19 13:40:54 2004] [error] [client 61.135.131.163] File does not exist: /var/www/html/~!^~!^~!.html
+[Wed May 19 18:20:43 2004] [error] [client 68.65.241.56] File does not exist: /var/www/html/_vti_bin
+[Wed May 19 18:20:43 2004] [error] [client 68.65.241.56] File does not exist: /var/www/html/MSOffice
+[Wed May 19 18:53:04 2004] [error] [client 136.187.42.251] File does not exist: /var/www/html/perl
+[Wed May 19 18:55:52 2004] [error] [client 68.98.223.16] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Thu May 20 05:20:35 2004] [error] [client 148.87.1.170] Directory index forbidden by rule: /var/www/html/10/
+[Thu May 20 08:37:59 2004] [error] [client 65.93.152.74] File does not exist: /var/www/html/vim-
+[Thu May 20 08:38:01 2004] [error] [client 65.93.152.74] File does not exist: /var/www/html/vim-
+[Thu May 20 09:55:21 2004] [error] [client 61.135.131.173] File does not exist: /var/www/html/~!^~!^~!.html
+[Fri May 21 04:17:58 2004] [error] [client 200.13.193.96] File does not exist: /var/www/html/scripts
+[Fri May 21 12:51:18 2004] [error] [client 66.98.50.73] Directory index forbidden by rule: /var/www/html/ship/
+[Fri May 21 18:35:10 2004] [error] [client 65.71.165.35] File does not exist: /var/www/html/_vti_bin
+[Sat May 22 00:45:45 2004] [error] [client 218.145.25.75] File does not exist: /var/www/html/perl
+[Sat May 22 00:47:49 2004] [error] [client 212.253.2.202] script not found or unable to stat: /var/www/cgi-bin/FormMail.cgi
+[Sat May 22 00:47:49 2004] [error] [client 212.253.2.202] script not found or unable to stat: /var/www/cgi-bin/formmail.pl
+[Sat May 22 00:47:49 2004] [error] [client 212.253.2.202] script not found or unable to stat: /var/www/cgi-bin/formmail.cgi
+[Sat May 22 00:47:49 2004] [error] [client 212.253.2.202] script not found or unable to stat: /var/www/cgi-bin/FormMail.pl
+[Sat May 22 16:58:38 2004] [error] [client 64.68.82.208] File does not exist: /var/www/html/perl
+[Sat May 22 17:50:16 2004] [error] [client 66.69.214.115] File does not exist: /var/www/html/perl
+[Sat May 22 23:04:01 2004] [error] [client 61.11.64.74] File does not exist: /var/www/html/style/c00.pdf
+[Sat May 22 23:08:10 2004] [error] [client 61.11.64.74] File does not exist: /var/www/html/style/c09.pdf
+[Sat May 22 23:08:21 2004] [error] [client 61.11.64.74] File does not exist: /var/www/html/style/c10.pdf
+[Sun May 23 02:24:49 2004] [error] [client 210.227.113.133] File does not exist: /var/www/html/scripts
+[Sun May 23 04:38:04 2004] [error] [client 61.145.189.254] File does not exist: /var/www/html/style/¬†, referer: http://www.eimhe.com/forum_view.asp?forum_id=54&view_id=6555
+[Sun May 23 09:19:01 2004] [error] [client 172.161.228.174] File does not exist: /var/www/html/style/favicon.ico
+[Sun May 23 11:30:12 2004] [error] [client 68.112.204.250] File does not exist: /var/www/html/scripts
+[Sun May 23 18:15:40 2004] [error] [client 64.157.224.128] File does not exist: /var/www/html/perl, referer: http://london.pm.org/reviews/perl-for-c-programmers.html
+[Sun May 23 20:24:16 2004] [error] [client 221.10.89.213] File does not exist: /var/www/html/style/¬†, referer: http://www.eimhe.com/forum_view.asp?forum_id=54&view_id=6555
+[Sun May 23 20:50:35 2004] [error] [client 218.232.120.86] File does not exist: /var/www/html/robotsxx.txt
+[Mon May 24 02:05:25 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/<b>vim<
+[Mon May 24 02:05:26 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/col/<b>cp<
+[Mon May 24 02:05:26 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/col/<b>cpm<
+[Mon May 24 02:05:28 2004] [error] [client 218.145.25.43] File does not exist: /var/www/html/sw/re/re_<b>graph<
+[Mon May 24 06:59:30 2004] [error] [client 196.2.64.3] File does not exist: /var/www/html/_vti_bin
+[Mon May 24 06:59:35 2004] [error] [client 196.2.64.3] File does not exist: /var/www/html/MSOffice
+[Mon May 24 09:35:32 2004] [error] [client 156.153.255.243] File does not exist: /var/www/html/_vti_bin
+[Mon May 24 09:35:33 2004] [error] [client 156.153.255.243] File does not exist: /var/www/html/MSOffice
+[Mon May 24 20:37:10 2004] [error] [client 63.230.135.169] File does not exist: /var/www/html/scripts
+[Mon May 24 22:27:21 2004] [error] [client 66.196.90.174] File does not exist: /var/www/html/perl
+[Tue May 25 04:14:17 2004] [error] [client 68.110.114.196] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Tue May 25 05:17:18 2004] [error] [client 66.193.231.55] script not found or unable to stat: /var/www/cgi-bin/FormMail.pl
+[Tue May 25 05:17:18 2004] [error] [client 66.193.231.55] script not found or unable to stat: /var/www/cgi-bin/form.pl
+[Tue May 25 05:17:18 2004] [error] [client 66.193.231.55] script not found or unable to stat: /var/www/cgi-bin/Mail.pl
+[Tue May 25 05:17:23 2004] [error] [client 66.193.231.55] script not found or unable to stat: /var/www/cgi-bin/formmail.pl
+[Tue May 25 05:17:23 2004] [error] [client 66.193.231.55] script not found or unable to stat: /var/www/cgi-bin/Form.pl
+[Tue May 25 05:17:24 2004] [error] [client 66.193.231.55] script not found or unable to stat: /var/www/cgi-bin/mail.pl
+[Tue May 25 07:06:07 2004] [error] [client 212.219.243.146] File does not exist: /var/www/html/col.cpm.html
+[Tue May 25 21:26:58 2004] [error] [client 24.35.92.111] Directory index forbidden by rule: /var/www/html/writing.long/
+[Wed May 26 02:26:16 2004] [error] [client 65.214.36.38] File does not exist: /var/www/html/perl
+[Wed May 26 05:26:54 2004] [error] [client 81.104.63.188] File does not exist: /var/www/html/tld
+[Wed May 26 11:50:58 2004] [error] [client 128.233.107.33] File does not exist: /var/www/html/style/index.html/html
+[Wed May 26 11:56:19 2004] [error] [client 128.233.107.33] File does not exist: /var/www/html/style/index.html/html
+[Wed May 26 11:56:22 2004] [error] [client 128.233.107.33] File does not exist: /var/www/html/style/index.html/html
+[Wed May 26 13:00:46 2004] [error] [client 217.229.57.102] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Wed May 26 14:22:04 2004] [error] [client 65.4.76.62] File does not exist: /var/www/html/_vti_bin
+[Wed May 26 14:22:04 2004] [error] [client 65.4.76.62] File does not exist: /var/www/html/MSOffice
+[Thu May 27 06:24:09 2004] [error] [client 131.155.32.132] File does not exist: /var/www/html/eof.html
+[Thu May 27 15:15:06 2004] [error] [client 64.68.82.135] File does not exist: /var/www/html/ship/ins/ins.sxi
+[Thu May 27 21:14:00 2004] [error] [client 82.2.155.72] File does not exist: /var/www/html/_vti_bin
+[Thu May 27 21:14:01 2004] [error] [client 82.2.155.72] File does not exist: /var/www/html/MSOffice
+[Fri May 28 02:50:37 2004] [error] [client 68.204.2.142] File does not exist: /var/www/html/web
+[Fri May 28 08:50:18 2004] [error] [client 62.114.25.96] File does not exist: /var/www/html/style/styleTOC.pdf-getrightdownload, referer: http://www.oualline.com/style/index.html
+[Fri May 28 15:08:10 2004] [error] [client 217.233.215.125] File does not exist: /var/www/html/main.php
+[Fri May 28 15:08:10 2004] [error] [client 217.233.215.125] File does not exist: /var/www/html/index.php
+[Fri May 28 15:08:10 2004] [error] [client 217.233.215.125] File does not exist: /var/www/html/phpinfo.php
+[Fri May 28 15:08:10 2004] [error] [client 217.233.215.125] File does not exist: /var/www/html/test.php
+[Fri May 28 15:08:10 2004] [error] [client 217.233.215.125] File does not exist: /var/www/html/index.php3
+[Sat May 29 05:03:42 2004] [error] [client 193.194.88.194] File does not exist: /var/www/html/style/c09.pdf
+[Sat May 29 05:03:43 2004] [error] [client 193.194.88.194] File does not exist: /var/www/html/style/c09.pdf
+[Sat May 29 07:56:26 2004] [error] [client 218.164.1.33] File does not exist: /var/www/html/default.htm
+[Sat May 29 08:33:13 2004] [error] [client 69.28.130.231] File does not exist: /var/www/html/c.html
+[Sat May 29 08:33:55 2004] [error] [client 69.28.130.231] File does not exist: /var/www/html/cpp.html
+[Sat May 29 08:34:38 2004] [error] [client 69.28.130.231] File does not exist: /var/www/html/linux.html
+[Sat May 29 09:50:31 2004] [error] [client 69.28.130.231] File does not exist: /var/www/html/re_graph.pl
+[Sat May 29 09:52:53 2004] [error] [client 69.28.130.231] File does not exist: /var/www/html/top_10.html
+[Sat May 29 23:12:22 2004] [error] [client 200.161.154.9] File does not exist: /var/www/html/modules
+[Sun May 30 05:15:08 2004] [error] [client 200.161.154.9] File does not exist: /var/www/html/modules
+[Sun May 30 10:09:38 2004] [error] [client 200.161.154.67] File does not exist: /var/www/html/modules
+[Sun May 30 14:20:40 2004] [error] [client 200.161.155.186] File does not exist: /var/www/html/modules
+[Sun May 30 15:29:46 2004] [error] [client 66.151.181.4] File does not exist: /var/www/perl/index.html
+[Sun May 30 16:24:27 2004] [error] [client 192.86.103.171] File does not exist: /var/www/html/default.ida
+[Sun May 30 17:21:53 2004] [error] [client 64.157.224.100] File does not exist: /var/www/html/perl, referer: http://london.pm.org/reviews/perl-for-c-programmers.html
+[Sun May 30 22:48:56 2004] [error] [client 212.174.15.5] File does not exist: /var/www/html/ship/ins/ins.sxi, referer: http://www.oualline.com/ship/ins/index.html
+[Mon May 31 00:14:42 2004] [error] [client 65.214.36.123] File does not exist: /var/www/html/perl
+[Mon May 31 01:04:13 2004] [error] [client 218.232.120.81] File does not exist: /var/www/html/robotsxx.txt
+[Mon May 31 03:06:24 2004] [error] [client 202.40.175.41] File does not exist: /var/www/html/style/Ch01.pdf, referer: http://www.oualline.com/style/
+[Mon May 31 03:06:51 2004] [error] [client 202.40.175.41] File does not exist: /var/www/html/style/ch01.pdf, referer: http://www.oualline.com/style/
+[Mon May 31 16:21:56 2004] [error] [client 204.210.74.55] File does not exist: /var/www/html/default.ida
+[Mon May 31 18:12:50 2004] [error] [client 204.210.188.203] File does not exist: /var/www/html/default.ida
+[Mon May 31 19:12:46 2004] [error] [client 68.121.83.97] File does not exist: /var/www/html/scripts
+[Tue Jun 01 04:02:01 2004] [notice] SIGHUP received.  Attempting to restart

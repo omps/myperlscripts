@@ -1,0 +1,35 @@
+At the time of this writing, I have a 1 1/2 year old daughter.
+She has learned that the computer keyboard is something 
+very important and that you bang on it.  She doesn't know
+one key from another, but every time I put her in my lap,
+she reaches for the keyboard.
+
+I wanted to create a game for her so she could start learning
+about the computer at an early age.  The first design called
+for a program that displayed a picture and played a sound 
+a key was pressed.  For example press "a" and picture of an
+apple would appear and a kids song about an apple would 
+be played.
+
+After a discusion with my wife we decided that this was too complicated
+for her and added a "sequential" mode to the program which displays a series
+of sounds and pictures.  In sqeuential mode you'll get "apple", "bannana", and "cow"
+in order, no matter which what keys you proess.
+
+<H>Running the program
+
+
+<H>Hacking
+
+After using this program for a while my daughter has taught me a few things.
+The first was how do get Play-doh out of a keyboard.  Secondly, although the 
+program grabs the keyboard, there are still a few keys left active.  The big 
+one is labeled "Power".  
+
+Grace likes the program and she is learning.  She went from banging the keyboard
+to pressing keys in just three days.  But I get to heard the same silly sounds
+over and over and over again.  I also get to fight my daughter for the computer.
+(She's napping right now or I'd never get this done.)  I'm not sure if it's
+a curse or a blessing when you design a computer game for a toddler and she
+really likes to use it.
+

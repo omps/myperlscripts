@@ -1,0 +1,81 @@
+play words/title001.wav
+play words/alphab01.wav
+play words/boy00001.wav ;play words/on000001.wav ; play words/book0001.wav
+play words/colori06.wav
+play words/decora01.wav
+play words/experi06.wav
+play words/fun00001.wav;play words/and00001.wav;play words/friend01.wav
+play words/game0001.wav
+play words/housek04.wav; play words/corner01.wav
+play words/inch0001.wav
+play words/jump0001.wav
+play words/kite0001.wav
+play words/listen02.wav
+play words/maraca02.wav; play words/and00001.wav; play words/music001.wav
+play words/number06.wav
+play words/orange02.wav
+play words/puppet01.wav
+play words/queen001.wav
+play words/read0003.wav; play words/at000001.wav; play words/home0001.wav 
+play words/story001.wav; play words/time0001.wav
+play words/teache01.wav
+play words/under001.wav; play words/umbrel01.wav
+play words/valent01.wav
+play words/wait0001.wav
+play words/xyloph02.wav
+play words/yellow01.wav
+play words/zoo00001.wav
+play words/a0000001.wav; play words/thanks03.wav; play words/alphab01.wav
+play words/appeti03.wav
+play words/bake0001.wav; play words/bread001.wav
+play words/corn0001.wav
+play words/doing001.wav; play words/dish0001.wav
+play words/egg00001.wav
+play words/family01.wav
+play words/give0001.wav; play words/thanks01.wav
+play words/harves01.wav
+play words/inside02.wav
+play words/jello001.wav
+play words/kitche01.wav
+play words/lighti01.wav; play words/candle01.wav
+play words/mop00001.wav
+play words/nutcra01.wav
+play words/orange02.wav
+play words/pilgri01.wav
+play words/quilt001.wav
+play words/recipe01.wav
+play words/salad001.wav
+play words/turkey01.wav
+play words/under001.wav
+play words/vase0002.wav
+play words/wampan01.wav
+play words/box00001.wav
+play words/yam00001.wav
+play words/z0000002.wav
+play words/a0000001.wav; play words/spring23.wav; play words/alphab01.wav
+play words/ant00001.wav
+play words/baseba01.wav
+play words/clean001.wav
+play words/dig00001.wav
+play words/egg00001.wav
+play words/farm0001.wav
+play words/garden03.wav
+play words/hopsco01.wav
+play words/insect01.wav
+play words/jump0001.wav
+play words/kite0001.wav
+play words/lamb0001.wav
+play words/mow00003.wav
+play words/nest0001.wav
+play words/observ09.wav
+play words/plant001.wav
+play words/quack001.wav
+play words/run00001.wav
+play words/seed0001.wav
+play words/tap00001.wav
+play words/up000001.wav
+play words/violet01.wav
+play words/water002.wav; play words/can_2_01.wav
+play words/fix00001.wav
+play words/yard0001.wav
+play words/zoom0001.wav

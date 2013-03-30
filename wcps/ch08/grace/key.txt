@@ -1,0 +1,5 @@
+space	play   sounds/psandqs.wav 
+a	play   sounds/sound1.au
+b	play   sounds/seasound.wav
+c	mpg123 sounds/Cow02.wav
+d	mpg123 sounds/Duck01.wav
